@@ -1,11 +1,5 @@
-<div align="center">
+👩🏻‍💻 Larissa Kich
 
-<a href="https://shorifuzzamansohan.xyz">me</a> •
-<a href="https://shorifuzzamansohan.xyz/projects">projects</a> •
-<a href="https://toripeis.com">toripeis</a> •
-<a href="https://github.com/sohan-es?tab=repositories">github</a> •
-<a href="https://www.linkedin.com/in/YOUR_USERNAME">linkedin</a> •
-<a href="https://x.com/YOUR_USERNAME">x</a> •
-<a href="https://shorifuzzamansohan.xyz/contact">contact</a>
+FullStack Developer
 
-</div>
+My name is Larissa Vitória Kich, I'm 20 years old and I'm from Rio Grande do Sul, Brazil. I completed high school at IFRS, with a technical degree in IT. I'm currently studying Systems Analysis and Development at PUCRS. I'm passionate about technology and share my knowledge through my YouTube channel "Larissa Kich", where I teach how to build web projects, and also through Instagram, with the profile "Dev em Dev".
