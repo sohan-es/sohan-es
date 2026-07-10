@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <img src="./assets/hero.svg" width="100%" alt="Sohan — Developer & Entrepreneur"/>
@@ -10,7 +11,7 @@
 
 <br/><br/>
 
-<a href="mailto:hello@example.com"><img src="https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=maildotru&logoColor=e6e9ef&labelColor=0d1117" height="28"/></a>
+<a href="mailto:hello@example.com"><img src="https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail&logoColor=e6e9ef&labelColor=0d1117" height="28"/></a>
 <a href="https://linkedin.com/in/sohan-es"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=e6e9ef&labelColor=0d1117" height="28"/></a>
 <a href="https://sohan-es.dev"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=flat-square&logo=safari&logoColor=e6e9ef&labelColor=0d1117" height="28"/></a>
 <img src="https://komarev.com/ghpvc/?username=sohan-es&label=Profile+Views&color=1a1e24&style=flat-square" height="28"/>
@@ -23,16 +24,9 @@
 
 <table width="100%">
 <tr>
-<td width="60%" valign="top">
+<td width="58%" valign="top">
 
-<br/>
-
-I'm **Sohan** — a developer and entrepreneur who enjoys turning rough ideas into
-calm, well-crafted software. My work sits at the intersection of clean
-engineering and considered design; I care as much about how a product
-*feels* as how it performs.
-
-&nbsp;
+I'm **Sohan** — a developer and entrepreneur who enjoys turning rough ideas into calm, well-crafted software. My work sits at the intersection of clean engineering and considered design; I care as much about how a product *feels* as how it performs.
 
 - 🏗️&nbsp;&nbsp;Full Stack Developer, building end-to-end products
 - 🎨&nbsp;&nbsp;UI/UX enthusiast — I sketch interfaces before I write code
@@ -40,12 +34,8 @@ engineering and considered design; I care as much about how a product
 - 🧠&nbsp;&nbsp;Perpetual open-source learner
 - ✨&nbsp;&nbsp;Obsessed with modern, minimal digital products
 
-<br/>
-
 </td>
-<td width="40%" valign="top">
-
-<br/>
+<td width="42%" valign="top">
 
 ```ts
 const sohan = {
@@ -69,42 +59,27 @@ const sohan = {
 <tr>
 <td align="center" width="20%">
 
-&nbsp;<br/>
-🧩<br/>
-**Toripe**<br/>
-<sub>Building in public</sub><br/>&nbsp;
+🧩<br/>**Toripe**<br/><sub>Building in public</sub>
 
 </td>
 <td align="center" width="20%">
 
-&nbsp;<br/>
-⚛️<br/>
-**React**<br/>
-<sub>Interfaces & state</sub><br/>&nbsp;
+⚛️<br/>**React**<br/><sub>Interfaces & state</sub>
 
 </td>
 <td align="center" width="20%">
 
-&nbsp;<br/>
-🟢<br/>
-**Node.js**<br/>
-<sub>APIs & services</sub><br/>&nbsp;
+🟢<br/>**Node.js**<br/><sub>APIs & services</sub>
 
 </td>
 <td align="center" width="20%">
 
-&nbsp;<br/>
-🎛️<br/>
-**UI / UX**<br/>
-<sub>Design systems</sub><br/>&nbsp;
+🎛️<br/>**UI / UX**<br/><sub>Design systems</sub>
 
 </td>
 <td align="center" width="20%">
 
-&nbsp;<br/>
-🌱<br/>
-**Open Source**<br/>
-<sub>Learning in the open</sub><br/>&nbsp;
+🌱<br/>**Open Source**<br/><sub>Learning in the open</sub>
 
 </td>
 </tr>
@@ -114,31 +89,51 @@ const sohan = {
 
 ## &nbsp;Tech Stack
 
-<div align="center">
+<table width="100%">
+<tr>
+<td width="18%" valign="middle"><sub><b>Languages</b></sub></td>
+<td width="82%">
 
-**Languages**
+<img src="https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26&labelColor=1a1e24" height="30"/>
+<img src="https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=1a1e24" height="30"/>
+<img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=1a1e24" height="30"/>
+<img src="https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178C6&labelColor=1a1e24" height="30"/>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts&theme=dark" height="52"/>
+</td>
+</tr>
+<tr>
+<td valign="middle"><sub><b>Frontend</b></sub></td>
+<td>
 
-&nbsp;
+<img src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=1a1e24" height="30"/>
+<img src="https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=nextdotjs&logoColor=ffffff&labelColor=1a1e24" height="30"/>
+<img src="https://img.shields.io/badge/TailwindCSS-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8&labelColor=1a1e24" height="30"/>
 
-**Frontend**
+</td>
+</tr>
+<tr>
+<td valign="middle"><sub><b>Backend</b></sub></td>
+<td>
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark" height="52"/>
+<img src="https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=8CC84B&labelColor=1a1e24" height="30"/>
+<img src="https://img.shields.io/badge/Express-0d1117?style=for-the-badge&logo=express&logoColor=ffffff&labelColor=1a1e24" height="30"/>
+<img src="https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=47A248&labelColor=1a1e24" height="30"/>
+<img src="https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=4479A1&labelColor=1a1e24" height="30"/>
 
-&nbsp;
+</td>
+</tr>
+<tr>
+<td valign="middle"><sub><b>Tools & Design</b></sub></td>
+<td>
 
-**Backend**
+<img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032&labelColor=1a1e24" height="30"/>
+<img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=e6e9ef&labelColor=1a1e24" height="30"/>
+<img src="https://img.shields.io/badge/Figma-0d1117?style=for-the-badge&logo=figma&logoColor=F24E1E&labelColor=1a1e24" height="30"/>
+<img src="https://img.shields.io/badge/VS%20Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC&labelColor=1a1e24" height="30"/>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" height="52"/>
-
-&nbsp;
-
-**Tools & Design**
-
-<img src="https://skillicons.dev/icons?i=git,github,figma,vscode&theme=dark" height="52"/>
-
-</div>
+</td>
+</tr>
+</table>
 
 <img src="./assets/divider.svg" width="100%" alt=""/>
 
