@@ -1,36 +1,46 @@
-
-
-**`FullStack Developer`**
-
-My name is Larissa Vitória Kich, I'm 20 years old and I'm from Rio Grande do Sul, Brazil. I completed high school at IFRS, with a technical degree in IT. I'm currently studying Systems Analysis and Development at PUCRS. I'm passionate about technology and share my knowledge through my YouTube channel "[Larissa Kich](https://www.youtube.com/@larissakich)", where I teach how to build web projects, and also through Instagram, with the profile "[Dev em Dev](https://www.instagram.com/dev_em_dev/)".
+I'm Shorifuzzaman Sohan, a 17-year-old developer and entrepreneur from Bangladesh. I'm the founder of Onode AI, an AI sales agent, and Unybuy, a digital subscriptions platform. I'm focused on building SaaS products that matter.
 
 <p align="left">
-    <a href="https://github.com/Larissakich">
+    <a href="https://www.postgresql.org/">
+        <img 
+            alt="postgresql skill" 
+            title="PostgreSQL" 
+            src="https://custom-icon-badges.demolab.com/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=2b5a7a"
+        />
+    </a>
+    <a href="https://firebase.google.com/">
+        <img 
+            alt="firebase skill" 
+            title="Firebase" 
+            src="https://custom-icon-badges.demolab.com/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&labelColor=E0A800"
+        />
+    </a>
+    <a href="https://supabase.com/">
+        <img 
+            alt="supabase skill" 
+            title="Supabase" 
+            src="https://custom-icon-badges.demolab.com/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white&labelColor=2FAE73"
+        />
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+        <img 
+            alt="javascript skill" 
+            title="JavaScript" 
+            src="https://custom-icon-badges.demolab.com/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=D6C100"
+        />
+    </a>
+    <a href="https://react.dev/">
         <img 
             alt="react skill" 
             title="React" 
-            src="https://custom-icon-badges.demolab.com/badge/React-E05D44?style=for-the-badge&logo=react&logoColor=white&labelColor=CE4630"
+            src="https://custom-icon-badges.demolab.com/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=21A1C4"
         />
     </a>
-    <a href="https://www.youtube.com/@larissakich">
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
         <img 
-            alt="youtube views" 
-            title="YouTube Views" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
-        />
-    </a> 
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total stars" 
-            title="Total GitHub stars" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=stars"
-        />
-    </a>
-    <a href="https://github.com/Larissakich?tab=followers">
-        <img 
-            alt="Followers" 
-            title="Follow me on GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white"
+            alt="css skill" 
+            title="CSS" 
+            src="https://custom-icon-badges.demolab.com/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=0F5A94"
         />
     </a>
 </p>
